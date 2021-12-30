@@ -12,6 +12,7 @@ WeChat: arrowooops
 
 QQ: 2027921697
 
+
 ## Education
 
 ### **University of Science and Technology of China** `2020.09 -`
@@ -33,3 +34,24 @@ HeFei, China
 - B.S. in Computer Science and Technology, the department of The Gifted Young
 - Advised by A.P [Shouhong Wan](https://cs.ustc.edu.cn/2020/0906/c23239a460133/page.htm)
 - Computer Vision, Object Detection
+
+
+## Experience
+
+### **Alibaba DAMO** `2021.12 -`
+
+_Research Intern_<br>
+
+Investigate Neural Machine Translation on the pattern of Prompting+LM
+
+Test Prefix-Prompting + GPT on the task of Chat Translation
+
+### **SenseTime-Deep learning framework Developer** `2021.06 - 2021.11`
+
+_Development Engineer_<br>
+
+Develop deep learning algorithm operator in SenseTime's deep learning framework
+
+Make adaptation on multiple device
+
+Investigate adaptive quantization training and inference
