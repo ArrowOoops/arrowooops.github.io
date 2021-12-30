@@ -1,3 +1,14 @@
+---
+layout: cv
+title: Yixin Jie(揭一新)
+email:
+  url: jyx1@mail.ustc.edu.cn
+  text: jyx1@mail.ustc.edu.cn
+homepage:
+  url: https://arrowooops.github.io/
+  text: https://arrowooops.github.io/
+---
+
 ## Yixin Jie(揭一新)
 
 Hi! I am a second year M.S. at University of Science and Technology of China, the department of Cyberspace Science and Technology, advised by [Chi Zhang](http://staff.ustc.edu.cn/~chizhang/). I work on Federated Learning of Graph Neural Network.
@@ -42,7 +53,7 @@ HeFei, China
 
 _Research Intern_<br>
 
-Investigate Neural Machine Translation on the pattern of Prompting+LM
+Investigate Neural Machine Translation on the pattern of Prompting + Language Models
 
 Test Prefix-Prompting + GPT on the task of Chat Translation
 
