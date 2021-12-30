@@ -1,37 +1,13 @@
-## Welcome to GitHub Pages
+## Yixin Jie(揭一新)
 
-You can use the [editor on GitHub](https://github.com/ArrowOoops/jieyixin.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Hi! I am a second year M.S. at University of Science and Technology of China, the department of Cyberspace Science and Technology, advised by [Chi Zhang](http://staff.ustc.edu.cn/~chizhang/). I work on Federated Learning of Graph Neural Network.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I did my undergrad at University of Science and Technology of China, the department of The Gifted Young, majoring in Computer Science and Technology. I did my undergraduate thesis on Computer Vision, afiliated with the Knowledge and Data Engineering Laboratory. I am advised by A.P [Shouhong Wan](https://cs.ustc.edu.cn/2020/0906/c23239a460133/page.htm). I work on one-stage Object Detection on Remote Sensing Image.
 
-### Markdown
+Email: jyx1@mail.ustc.edu.cn
+Links: [Google Scholar](https://scholar.google.com.hk/citations?user=ZWz4BsAAAAAJ&hl) [GitHub](https://github.com/ArrowOoops)
+WeChat: arrowooops
+QQ: 2027921697
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ArrowOoops/jieyixin.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### Education
+## 
